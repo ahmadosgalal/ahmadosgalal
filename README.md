@@ -1,14 +1,4 @@
 ### Hello there, it's Ahmed Osama! 💁
-<a href="https://discordapp.com/users/Osama#7137">
-  <img align="left" alt="Ahmed's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ahmadosama_">
-  <img align="left" alt="Ahmed Osama | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmaddosama/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmadosgalal.ahmadosgalal)
 
